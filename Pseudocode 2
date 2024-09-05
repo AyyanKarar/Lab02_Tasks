@@ -1,0 +1,8 @@
+Take three variables as input and add them without using the + operator (Use your head for this)
+START
+INPUT n1, n2, n3
+SET sum to 0
+sum = -n1 -n2 -n3
+sum = -sum
+PRINT sum
+END
