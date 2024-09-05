@@ -1,0 +1,10 @@
+-Find the maximum number in any of three variables.
+START
+IF var1 > var2 AND var1 > var3 THEN
+PRINT "The max num is "+ var1
+ELSE 
+IF var2 > var3 AND var2 > var1 THEN
+PRINT "The max num is "+ var2
+ELSE 
+PRINT "The max num is "+ var3
+END
