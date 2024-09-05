@@ -1,0 +1,9 @@
+Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+START
+INPUT n1,n2
+INPUT operator
+IF operator = '+' THEN
+PRINT n1 + n2
+ELSE 
+PRINT n1 - n2
+END
