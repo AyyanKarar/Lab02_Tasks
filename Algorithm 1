@@ -1,0 +1,9 @@
+Ask the user to enter N
+Ask the user to enter n
+IF N mod n is equals to 0 THEN
+  IF N mod 2 is equals to 0 THEN
+  Display that the number N is divisor of n and an even number
+  ELSE
+  Display that the number N is divisor of n and an odd number
+ELSE
+Display that The number N is not a divisor of n
