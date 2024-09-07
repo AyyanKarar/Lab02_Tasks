@@ -1,0 +1,46 @@
+Ask the user to enter a number
+Create an array of months starting from January to December(Months= ["January", "February".....])
+IF number is greater than 12, Ask the user to enter a number ranging from 1-12
+ELSE
+Display the respective month to the user(Months[number])
+
+-----------OR ANOTHER METHOD----------
+Ask the user to enter a number
+IF number is greater than 12 THEN
+Ask the user to enter a number ranging from 1-12
+ELSE
+  IF number = 1 THEN
+  Display the month January
+  ELSE 
+  IF number = 2 THEN 
+  Display the month February
+  ELSE
+  IF number = 3 THEN 
+  Display the month March
+  ELSE
+  IF number = 4 THEN 
+  Display the month April
+  ELSE
+  IF number = 5 THEN 
+  Display the month May
+  ELSE
+  IF number = 6 THEN 
+  Display the month June
+  ELSE
+  IF number = 7 THEN 
+  Display the month July
+  ELSE
+  IF number = 8 THEN 
+  Display the month August
+  ELSE
+  IF number = 9 THEN 
+  Display the month September
+  ELSE
+  IF number = 10 THEN 
+  Display the month October
+  ELSE
+  IF number = 11 THEN 
+  Display the month November
+  ELSE
+  IF number = 12 THEN 
+  Display the month December
