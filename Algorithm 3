@@ -1,0 +1,20 @@
+Ask the user to enter a number(n1)
+Display the available operators(+, -, *, /, %)
+Ask the user to enter an operator(op)
+Ask the user to enter a number(n2)
+IF op = "+" THEN
+Display n1 + n2
+ELSE
+IF op = "-" THEN
+Display n1 - n2
+ELSE
+IF op = "*" THEN
+Display n1 * n2
+ELSE
+IF op = "/" THEN
+Display n1 / n2
+ELSE
+IF op = "%" THEN
+Display n1 % n2
+ELSE
+Display Invalid Operator Entered
